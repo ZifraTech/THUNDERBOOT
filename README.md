@@ -1,4 +1,4 @@
-#THUNDERBOOT
+# THUNDERBOOT
 THUNDERBOOT is a device that works as an intermediate between your embedded system in development and the code on your laptop. With this you do not need an SD-card that you move  back and forth. Instead, you can simply plug one end of the ThunderBoot to your laptop and the other end to your device. Then you can Boot directly from the laptop with a single click, no more running back and forth.
 
 ![](images/THUNDERBOOT.jpg)
